@@ -4,6 +4,7 @@ The repository contrains an classification on the tensorflow dataset with images
 
 
 The data is classified in 8 classes, and contains 5000 images, equally distributed to all classes.
+<br />
 ![](/Images/class_examples_smaller.png)
 <br />
 
