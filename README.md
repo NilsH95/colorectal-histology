@@ -4,6 +4,6 @@ The repository contrains an classification on the tensorflow dataset with images
 
 
 The data is classified in 8 classes, and contains 5000 images, equally distributed to all classes.
-![](/Images/class_examples3.png)
+![](/Images/class_examples_smaller.png)
 
 The applied model consists of several convolution and pooling layers. Also dropout and dense layers in the end are added.
