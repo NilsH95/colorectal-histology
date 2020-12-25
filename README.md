@@ -10,4 +10,4 @@ The data is classified in 8 classes, and contains 5000 images, equally distribut
 <br />
 <br />
 
-The applied model consists of several convolution and pooling layers. Also dropout and dense layers in the end are added. The model reaches around 85% accuracy. The graph of the training and validation loss and accuracy stagnate after approximately 80 epochs, so it could be benificial to train only for that many epochs in order to prevent overfitting.
+The applied model consists of several convolution and pooling layers. Also dropout and dense layers in the end are added. The model reaches around 85% accuracy on the validation set. The graph of the training and validation loss and accuracy stagnate after approximately 80 epochs, so it could be benificial to train only for that many epochs in order to prevent overfitting.
